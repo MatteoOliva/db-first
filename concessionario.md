@@ -1,11 +1,13 @@
 # automobili_del_concessionario
 
-| id  | marca | modello | cv  | km  | prezzo | acquistabile | seconda mano |
-| --- | ----- | ------- | --- | --- | ------ | ------------ | ------------ |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
-|     |       |         |     |     |        |              |              |
+ID
+
+| field        | TYPE | ATTRIBUTES | INDEXES |
+| ------------ | ---- | ---------- | ------- |
+| id           |      |            |         |
+| marca        |      |            |         |
+| modello      |      |            |         |
+| cv           |      |            |         |
+| prezzo       |      |            |         |
+| acquistabile |      |            |         |
+| seconda      |      |            |         |
